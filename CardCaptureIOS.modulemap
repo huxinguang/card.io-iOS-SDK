@@ -1,0 +1,6 @@
+framework module CardCaptureIOS {
+  umbrella header "CardCaptureIOS-umbrella.h"
+
+  export *
+  module * { export * }
+}
